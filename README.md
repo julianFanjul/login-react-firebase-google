@@ -1,3 +1,1 @@
-# JournalApp
-
-Una aplicación para llevar mi diario hecha con React y Redux.
+# Login con REACT Y REDUX - FIREBASE/GOOGLE - SASS
